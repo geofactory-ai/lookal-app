@@ -11,6 +11,17 @@
 - [e2689ce9.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/e2689ce9.md): E2689Ce9
 - [geo-20260225-2200.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260225-2200.md): Geo 20260225 2200
 - [geo-20260226-0600.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260226-0600.md): Geo 20260226 0600
+- [geo-20260226-0800.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260226-0800.md): Geo 20260226 0800
+- [geo-20260226-1000.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260226-1000.md): Geo 20260226 1000
+- [geo-20260226-1200.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260226-1200.md): Geo 20260226 1200
+- [geo-20260226-1400.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260226-1400.md): Geo 20260226 1400
+- [geo-20260226-1600.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260226-1600.md): Geo 20260226 1600
+- [geo-20260226-1800.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260226-1800.md): Geo 20260226 1800
+- [geo-20260226-2000.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260226-2000.md): Geo 20260226 2000
+- [geo-20260226-2200.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260226-2200.md): Geo 20260226 2200
+- [geo-20260227-0600.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260227-0600.md): Geo 20260227 0600
+- [geo-20260227-0800.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260227-0800.md): Geo 20260227 0800
+- [geo-20260227-1000.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260227-1000.md): Geo 20260227 1000
 
 ## Target Queries
 
