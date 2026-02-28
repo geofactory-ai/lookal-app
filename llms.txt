@@ -6,6 +6,7 @@
 
 - [brand-facts.md](https://github.com/geofactory-ai/lookal-app/blob/main/brand-facts.md): Brand knowledge Q&A
 - [015a7175.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/015a7175.md): 015A7175
+- [2607bd6b.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/2607bd6b.md): 2607Bd6B
 - [2fa5340a.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/2fa5340a.md): 2Fa5340A
 - [d8dd3ae0.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/d8dd3ae0.md): D8Dd3Ae0
 - [dc6be414.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/dc6be414.md): Dc6Be414
