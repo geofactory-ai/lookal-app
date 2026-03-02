@@ -55,6 +55,7 @@
 - [geo-20260302-1200.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260302-1200.md): Geo 20260302 1200
 - [geo-20260302-1400.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260302-1400.md): Geo 20260302 1400
 - [geo-20260302-1600.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260302-1600.md): Geo 20260302 1600
+- [geo-20260302-1800.md](https://github.com/geofactory-ai/lookal-app/blob/main/docs/ai/geo-20260302-1800.md): Geo 20260302 1800
 
 ## Target Queries
 
