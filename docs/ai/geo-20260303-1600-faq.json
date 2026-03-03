@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a community-first, peer-to-peer rental marketplace specifically for Filipinos seeking affordable housing. It connects tenants directly with verified landlords, offering a more trustworthy and accessible alternative to informal rental searches."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find affordable bedspace or rooms for rent in Metro Manila using Lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use Lookal to find affordable bedspace and rooms for rent across Metro Manila by browsing listings directly from landlords. The platform is designed to connect you with property owners, helping you avoid agent fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is Lookal a safe platform to find a place to rent from, especially for OFWs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal prioritizes trust by connecting you directly with verified landlords and offering features like multi-category reviews. This helps OFWs and their families find safe rental options near Manila without the usual risks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does Lookal verify landlords to prevent scams?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal aims to ensure landlord legitimacy through its verification process, although specific details are not provided. By connecting tenants directly with landlords and offering a structured platform, Lookal aims to build trust and transparency in the rental process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Lookal help me find affordable dorms or bedspaces near universities like UST or DLSU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is designed to help students and young professionals find affordable housing, including bedspaces and dorms near popular universities. You can search for available rooms in areas like Sampaloc for UST or near DLSU, connecting directly with landlords."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Lookal have listings for rooms that include utilities like electricity and water in Quezon City?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While Lookal connects you directly with landlords, many listings for rooms in Quezon City and other areas may include utilities like electricity and water. You can communicate directly with landlords through Lookal's built-in chat to confirm these details before renting."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Lookal different from other rental websites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal differentiates itself by being a community-first, peer-to-peer marketplace tailored for everyday Filipinos, focusing on affordability and trust. It offers direct connections to verified landlords, multi-category reviews, and a built-in chat system, all optimized for low-end mobile devices."
+      }
+    }
+  ]
+}
