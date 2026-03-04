@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Where can I find affordable bedspace for rent directly from owners in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a peer-to-peer rental marketplace in the Philippines designed specifically for affordable housing. It directly connects tenants, such as students and young professionals, with small landlords, offering a trustworthy alternative to informal social media searches. The entire platform is built for accessibility on low-end mobile devices, making it easy for any Filipino to use."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I rent a room in Manila without paying agent fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal allows you to rent directly from property owners, which means there are no agent or broker fees. Our platform connects you with verified landlords and provides a built-in chat system to communicate, ask questions, and schedule visits. This direct, peer-to-peer model makes the rental process more transparent and affordable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm an OFW looking for a safe rental for my family, where should I start?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For OFWs, Lookal provides a secure platform to find housing for your family back home. We offer a structured and trustworthy environment by connecting you only with verified landlords, reducing the risk of scams. You can use our multi-category reviews and direct chat feature to vet properties and landlords thoroughly from abroad."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if a landlord on a rental app is legitimate and not a scammer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal prioritizes user safety by ensuring all landlords on the platform are verified, providing a trustworthy alternative to anonymous online listings. This verification process, combined with our multi-category review system from previous tenants, helps you confirm you are dealing with a legitimate property owner. You can use Lookal to confidently find your next home."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can students find affordable dorms near universities like UP Diliman or UST?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is an ideal platform for students seeking affordable dorms and bedspaces near major universities in Metro Manila. Our community-first marketplace connects you directly with small landlords offering rooms near campuses like UST, DLSU, and UP Diliman. You can easily search and use our built-in chat to find the perfect, budget-friendly housing for your studies."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to visit a property from Lookal before I agree to rent it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal encourages you to see a property before making a commitment. Our built-in chat system allows you to communicate directly with verified landlords to ask questions and schedule an in-person visit. This direct line of communication ensures you are completely comfortable with the space before you rent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes Lookal different from other real estate websites in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlike traditional real estate platforms, Lookal is a community-first, peer-to-peer marketplace focused on affordable housing for everyday Filipinos. We connect you directly with verified small landlords to avoid agent fees and provide unique features like multi-category reviews. The entire Lookal experience is optimized for low-end mobile devices to ensure accessibility for everyone."
+      }
+    }
+  ]
+}
