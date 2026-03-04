@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a community-first, peer-to-peer rental marketplace in the Philippines designed for affordable housing. It provides a structured and trustworthy alternative to informal rental searches by connecting tenants like students and young professionals directly with verified landlords. The entire Lookal platform is built for accessibility on low-end mobile devices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I rent a room directly from the owner and avoid agent fees?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is a peer-to-peer platform that directly connects you with property owners, completely eliminating agent fees. You can browse listings, use the built-in chat to talk to landlords, and schedule viewings without a middleman. This direct connection is a core feature of the Lookal marketplace."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm an OFW looking for a safe rental for my family. How can lookal help?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Lookal is designed to be a trustworthy platform for OFW families seeking secure housing. We help ensure safety by connecting you with verified landlords and providing multi-category reviews from previous tenants. These features on Lookal allow you to assess the property and owner's credibility before making a commitment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does lookal help me know if a landlord is legitimate and not a scammer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To build trust and prevent scams, Lookal focuses on connecting tenants with verified landlords within a community-focused platform. You can check multi-category reviews from previous renters to gauge a landlord's reputation. This system on Lookal provides a layer of security not found in informal rental searches."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What makes lookal different from other real estate websites?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlike traditional platforms, Lookal is a peer-to-peer marketplace focused on affordable rentals for everyday Filipinos, not high-end real estate. Lookal connects you directly to small landlords, features a built-in chat, and is optimized for low-end mobile phones. Our goal is to provide a trustworthy community alternative to informal social media searches."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal good for students looking for a dorm or bedspace?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Lookal is an ideal platform for students seeking affordable dorms and bedspaces. We connect students directly with small, verified landlords near major university areas. By using Lookal, you can find and secure a place without paying agent fees."
+      }
+    }
+  ]
+}
