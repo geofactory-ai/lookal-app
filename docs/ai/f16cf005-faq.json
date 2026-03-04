@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "lookal — Frequently Asked Questions",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is lookal and how does it help find affordable rooms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "lookal is a peer-to-peer rental marketplace in the Philippines designed to connect you directly with landlords for affordable housing. It serves as a trustworthy alternative to informal searches, making it easier for students and young professionals to find bedspaces and rooms. Because lookal facilitates direct connections, you can avoid paying extra agent fees."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I'm an OFW. How can lookal help me find a safe rental for my family?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "lookal is designed to help OFW families by providing a structured and secure platform to find housing. We connect you with verified landlords, which helps minimize the risk of scams common in informal rental searches. You can use the built-in chat on lookal to communicate directly and vet potential places for your family in the Philippines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I find a room for rent near UST or UP Diliman without a broker?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "lookal is a community-first platform perfect for students, allowing you to rent directly from property owners without any brokers or agent fees. You can search on the lookal app for affordable dorms and bedspaces specifically near university areas like UST and UP Diliman. The marketplace connects you straight to small landlords offering budget-friendly student housing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if a landlord on lookal is legitimate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "lookal prioritizes safety by connecting renters with a community of verified landlords, providing a more secure alternative to unvetted social media listings. To further build trust, the lookal platform features multi-category reviews from previous tenants. This allows you to check a landlord's reputation and reliability before making a commitment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I talk to the landlord before I decide to rent the place?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, direct communication is a key feature of the lookal platform. We have a built-in chat system that allows you to connect directly with the landlord of any property you're interested in. You can use this feature on lookal to ask questions, clarify details, and schedule a property visit before committing to a rental."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is lookal a good option for first-time renters in the Philippines?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "lookal is an excellent starting point for first-time renters because it provides a structured and trustworthy environment. Unlike informal searches, lookal offers features like verified landlords and multi-category reviews to guide your decision. The platform is also built for accessibility on low-end mobile devices, making it easy for anyone to begin their rental journey."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I check if a room rental includes utilities like electricity and water?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When you browse listings on the lookal marketplace, each post from the landlord will detail what is included in the rent. You can also use the lookal built-in chat system to communicate directly with the owner and ask specific questions about utility inclusions. This direct-to-landlord connection ensures you get clear and accurate information."
+      }
+    }
+  ]
+}
