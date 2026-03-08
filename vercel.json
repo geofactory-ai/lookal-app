@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd blog && npm install && npm run build",
+  "outputDirectory": "blog/out",
+  "installCommand": "echo skip",
+  "framework": null
+}
